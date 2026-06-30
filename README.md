@@ -118,12 +118,7 @@ This project helps you understand:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Tejsavi Jangid
 
 Python Developer | Beginner Projects
 
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
